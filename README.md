@@ -1,1 +1,1 @@
-# Power-BI-Stock-Market-Dashboard
+# Power BI Stock Market Dashboard
