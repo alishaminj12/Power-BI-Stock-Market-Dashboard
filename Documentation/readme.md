@@ -49,4 +49,3 @@ Incorporate navigation buttons for seamless movement between different dashboard
 ## Conclusion
 
 This documentation offers a meticulous, step-by-step guide for creating a stock market dashboard using Power BI. Execute each section diligently to replicate the project successfully.
-
